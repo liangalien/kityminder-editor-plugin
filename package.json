@@ -1,0 +1,14 @@
+{
+  "name": "kityminder-editor-plugin",
+  "description": "kityminder-editor核心代码，可作为依赖项引入",
+  "author": "shiqiangliang",
+  "version": "0.0.1",
+  "license": "GPL-2.0",
+  "private": false,
+  "main": "src/expose-editor.js",
+  "dependencies": {
+    "hotbox-ui": "^1.0.0",
+    "kity": "^2.0.4",
+    "kityminder-core": "^1.4.50"
+  }
+}
